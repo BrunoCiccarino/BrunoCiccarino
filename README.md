@@ -8,6 +8,6 @@ my nickname **Ch4r0nN/Gr3n0xX** and i'm a osdev enthusiast, lowlevel and game ha
 </a>
 
 <a href="https://github.com/Ch4r0nN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4r0nN&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4r0nN&&hide=cmake&Makefile&langs_count=4&line_height=35&theme=dark" />
 </a>
 
