@@ -11,3 +11,4 @@ my nickname is **Ch4r0nN/Gr3n0xX** and i'm a osdev enthusiast, lowlevel and game
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4r0nN&&hide=cmake&Makefile&langs_count=4&line_height=35&theme=dark" />
 </a>
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
