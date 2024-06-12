@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-my nickname is **Ch4r0nN/Gr3n0xX** and i'm a osdev enthusiast, lowlevel and game hacking/cheat dev lover
+my nickname is **Ch4r0nN/Gr3n0xX** and i'm a osdev enthusiast, lowlevel and game hacking lover
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <a href="https://visitorbadge.io/status?path=Ch4r0nN%2FCh4r0nN"><img src="https://api.visitorbadge.io/api/visitors?path=Ch4r0nN%2FCh4r0nN&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
