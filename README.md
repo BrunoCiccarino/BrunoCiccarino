@@ -8,7 +8,7 @@ Email ciccabr9@gmail.com
 
 #### 🛠 &nbsp;Tech Stack
 
-- 🗄 &nbsp;Data Science && Machine Learning:&nbsp;
+- 🗄 &nbsp;Data Science And Machine Learning:&nbsp;
 
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
 
