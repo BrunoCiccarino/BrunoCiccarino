@@ -18,6 +18,7 @@ Email ciccabr9@gmail.com
 
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intellijidea)
 
+- 🎯 Languages ​​I have studied:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <a href="https://visitorbadge.io/status?path=Ch4r0nN%2FCh4r0nN"><img src="https://api.visitorbadge.io/api/visitors?path=Ch4r0nN%2FCh4r0nN&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 
