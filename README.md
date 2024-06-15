@@ -15,6 +15,7 @@ Email ciccabr9@gmail.com
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
 
 - 🌐 &nbsp;Web:&nbsp;
+- 
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
 
