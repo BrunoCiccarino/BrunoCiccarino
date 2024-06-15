@@ -6,11 +6,17 @@ my name is **Bruno Ciccarino** and i'm a osdev enthusiast, lowlevel and game hac
 Contact methods: </br>
 Email ciccabr9@gmail.com
 
+-F Contributing to [FleakOS](https://github.com/fleakos/Fleak) in my free time, an attempt to program a monolithic kernel, as I study, I improve it, for now it is not even in the prototype phase.
+
 #### 🛠 &nbsp;Tech Stack
 
 - 🗄 &nbsp;Data Science And Machine Learning:&nbsp;
 
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+
+- 🌐 &nbsp;Web:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
 
 - 🔧 &nbsp;IDE's:&nbsp;
   
