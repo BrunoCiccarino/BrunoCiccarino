@@ -19,11 +19,13 @@ Email ciccabr9@gmail.com
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
 
-- 🔧 &nbsp;IDE's:&nbsp;
+- 🔧 &nbsp;IDE's and Text Editor:&nbsp;
   
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intellijidea)
+
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Femacs%2Femacs-original.svg" alt="emacs" width="20" height="20">
 
 - 🎯 Languages ​​I have studied:
 
