@@ -34,7 +34,5 @@ Email ciccabr9@gmail.com
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoCiccarino&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Bruno Ciccarino GitHub Stats" />
 </a>
 
-<a href="https://github.com/BrunoCiccarino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&&hide=cmake&Makefile&langs_count=4&line_height=35&theme=dark" />
-</a>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&amp;layout=compact&amp;langs_count=10&amp;theme=merko&amp;hide=prolog,rich%20text%20format,html&amp"/>
 
