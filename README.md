@@ -35,10 +35,4 @@ Email ciccabr9@gmail.com
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&amp;layout=compact&amp;langs_count=10&amp;theme=merko&amp;hide=prolog,rich%20text%20format,html&amp"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoCiccarino/BrunoCiccarino/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoCiccarino/BrunoCiccarino/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunoCiccarino/BrunoCiccarino/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+
