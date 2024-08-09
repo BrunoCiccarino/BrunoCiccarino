@@ -5,3 +5,5 @@
 - 🔭 I’m currently working on Lambda Forum
 
 [![BrunoCiccarino GitHub | Stats](https://stats.quine.sh/BrunoCiccarino/github?theme=light)](https://quine.sh)
+
+![](https://komarev.com/ghpvc/?username=BrunoCiccarino)
