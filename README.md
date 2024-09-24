@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 
 
-- 🔭 I’m currently working on Lambda Forum 
+- 🔭 I’m currently working on @sheep-io
 
 <p align="center">
   <!-- PixMe -->
