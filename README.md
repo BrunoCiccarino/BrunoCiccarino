@@ -2,10 +2,15 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 
 
-- 🔭 I’m currently working on @sheep-io
+- 🔭 I’m currently working on 🤫
+- ✍️ Author of [sheepy](https://github.com/sheep-io/sheepy)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<a href="https://react.dev/">
+    <!-- react -->
+    <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</a>
 <a href="https://www.pixme.bio/brunociccarino" target="_blank" rel="noopener noreferrer">
+    <!-- PixMe -->
     <img alt="pixme url" src="https://img.shields.io/badge/donate%20on-pixme-1C1E26?style=for-the-badge&labelColor=1C1E26&color=28f4f4"/>
   </a> 
 
