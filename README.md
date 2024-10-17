@@ -8,8 +8,4 @@
   <!-- PixMe -->
   <a href="https://www.pixme.bio/brunociccarino" target="_blank" rel="noopener noreferrer">
     <img alt="pixme url" src="https://img.shields.io/badge/donate%20on-pixme-1C1E26?style=for-the-badge&labelColor=1C1E26&color=28f4f4"/>
-  </a>
-
-![metrics](https://metrics.lecoq.io/insights/brunociccarino)
-
-![](https://komarev.com/ghpvc/?username=BrunoCiccarino)
+  </a> ![profile views](https://komarev.com/ghpvc/?username=BrunoCiccarino)
