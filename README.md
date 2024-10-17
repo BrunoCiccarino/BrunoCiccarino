@@ -4,10 +4,8 @@
 
 - 🔭 I’m currently working on @sheep-io
 
-![[pixme](https://img.shields.io/badge/donate%20on-pixme-1C1E26?style=for-the-badge&labelColor=1C1E26&color=28f4f4)(https://www.pixme.bio/brunociccarino)] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<p align="center">
-  <!-- PixMe -->
-  <a href="https://www.pixme.bio/brunociccarino" target="_blank" rel="noopener noreferrer">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<a href="https://www.pixme.bio/brunociccarino" target="_blank" rel="noopener noreferrer">
     <img alt="pixme url" src="https://img.shields.io/badge/donate%20on-pixme-1C1E26?style=for-the-badge&labelColor=1C1E26&color=28f4f4"/>
   </a> 
 
