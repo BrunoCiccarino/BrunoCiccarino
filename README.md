@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on 🤫
-- ✍️ Author of [sheepy](https://github.com/sheep-io/sheepy), and [express-go](https://github.com/BrunoCiccarino/express-go)
+- ✍️ Author of [express-go](https://github.com/BrunoCiccarino/express-go)
 
 <a href="https://react.dev/">
     <!-- react -->
