@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on 🤫
-- ✍️ Author of [express-go](https://github.com/BrunoCiccarino/express-go)
+- ✍️ Author of [GopherLight](https://github.com/BrunoCiccarino/GopherLight)
 
 <a href="https://react.dev/">
     <!-- react -->
