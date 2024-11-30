@@ -11,3 +11,4 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Ch4r0nN/)
 
 ![Bruno Ciccarino GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCiccarino&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&theme=radical&hide=python)
