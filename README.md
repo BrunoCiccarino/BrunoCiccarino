@@ -14,4 +14,4 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![Bruno Ciccarino GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCiccarino&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&theme=radical&hide=python&html&python)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&theme=radical&hide=python&html&css)
