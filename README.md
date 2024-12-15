@@ -15,3 +15,11 @@
 
 ![Bruno Ciccarino GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCiccarino&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&theme=radical&hide=html)
+
+### Projects: 
+
+[GopherLight](https://github.com/BrunoCiccarino/GopherLight)   ✓  
+[galaxy-lang](https://github.com/galaxy-lang/galaxy)   ✓  
+[fastvim](https://github.com/BrunoCiccarino/fastvim)   ✓  
+[gruverboxer-material](https://github.com/BrunoCiccarino/gruverboxer-material.nvim)   ✓  
+[dashdaddy](https://github.com/BrunoCiccarino/dashdaddy.vim)   ✓  
