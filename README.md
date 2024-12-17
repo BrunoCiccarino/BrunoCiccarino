@@ -24,3 +24,4 @@
 [fastvim](https://github.com/BrunoCiccarino/fastvim)   ✓  
 [gruverboxer-material](https://github.com/BrunoCiccarino/gruverboxer-material.nvim)   ✓  
 [dashdaddy](https://github.com/BrunoCiccarino/dashdaddy.vim)   ✓  
+[lazygrep](https://github.com/BrunoCiccarino/lazygrep.nvim)  ✓ 
