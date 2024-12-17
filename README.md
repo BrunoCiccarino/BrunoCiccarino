@@ -12,6 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Ch4r0nN/)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![lua](https://img.shields.io/badge/lua-code?style=for-the-badge&logo=lua&color=%23789DBC
 
 ![Bruno Ciccarino GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCiccarino&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&theme=radical&hide=html)
