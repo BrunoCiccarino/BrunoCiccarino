@@ -26,3 +26,4 @@
 - [dashdaddy](https://github.com/BrunoCiccarino/dashdaddy.vim)   ✓  
 - [lazygrep](https://github.com/BrunoCiccarino/lazygrep.nvim)  ✓ 
 - [fast plugin manager](https://github.com/fastvim/fpm)  ✓
+- [nekonight](https://github.com/BrunoCiccarino/nekonight) ✓
