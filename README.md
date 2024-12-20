@@ -19,10 +19,10 @@
 
 ### Projects: 
 
-[GopherLight](https://github.com/BrunoCiccarino/GopherLight)   ✓  
-[galaxy-lang](https://github.com/galaxy-lang/galaxy)   ✓  
-[fastvim](https://github.com/BrunoCiccarino/fastvim)   ✓  
-[gruverboxer-material](https://github.com/BrunoCiccarino/gruverboxer-material.nvim)   ✓  
-[dashdaddy](https://github.com/BrunoCiccarino/dashdaddy.vim)   ✓  
-[lazygrep](https://github.com/BrunoCiccarino/lazygrep.nvim)  ✓ 
-[fast plugin manager](https://github.com/fastvim/fpm)  ✓
+- [GopherLight](https://github.com/BrunoCiccarino/GopherLight)   ✓  
+- [galaxy-lang](https://github.com/galaxy-lang/galaxy)   ✓  
+- [fastvim](https://github.com/fastvim/fastvim)   ✓  
+- [gruverboxer-material](https://github.com/BrunoCiccarino/gruverboxer-material.nvim)   ✓  
+- [dashdaddy](https://github.com/BrunoCiccarino/dashdaddy.vim)   ✓  
+- [lazygrep](https://github.com/BrunoCiccarino/lazygrep.nvim)  ✓ 
+- [fast plugin manager](https://github.com/fastvim/fpm)  ✓
