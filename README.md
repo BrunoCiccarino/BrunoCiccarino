@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 
-- 🔭 I’m currently working on [galaxy-lang](https://github.com/galaxy-lang/galaxy)
+- 🔭 I’m currently working on [fastvim](https://github.com/fastvim/fastvim)
 - ✍️ Author of [GopherLight](https://github.com/BrunoCiccarino/GopherLight)
 
 [![pix-me](https://img.shields.io/badge/donate%20on-pixme-1C1E26?style=for-the-badge&labelColor=1C1E26&color=28f4f4)](https://www.pixme.bio/brunociccarino)
