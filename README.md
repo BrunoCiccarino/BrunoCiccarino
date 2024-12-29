@@ -20,9 +20,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-![Bruno Ciccarino GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCiccarino&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&theme=radical&hide=html)
+![BrunoCiccarino's Stats](https://github-readme-stats.vercel.app/api?username=BrunoCiccarino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Projects: 
 
