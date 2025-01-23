@@ -8,3 +8,8 @@
 ![BrunoCiccarino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoCiccarino&theme=vue-dark&hide_border=true)
 ![BrunoCiccarino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCiccarino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+### 📝 — Latests posts from my blog
+
+- [posh-zero-to-hero](https://brunociccarino.github.io/posts/posh-zero-to-hero/)
+- [choosing-your-shell](https://brunociccarino.github.io/posts/choosing-your-shell/)
+- [why-haskell](https://brunociccarino.github.io/posts/why-haskell/)
