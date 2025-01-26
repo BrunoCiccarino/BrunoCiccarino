@@ -19,6 +19,8 @@
 - [why-haskell](https://brunociccarino.github.io/posts/why-haskell/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunociccarino&" alt="brunociccarino" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunociccarino&show_icons=true&locale=en&layout=compact" alt="brunociccarino" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunociccarino&show_icons=true&locale=en" alt="brunociccarino" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +34,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://studio.buymeacoffee.com/dashboard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://studio.buymeacoffee.com/dashboard" /></a><a href="https://ko-fi.com/https://ko-fi.com/brunociccarino"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/brunociccarino" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunociccarino&show_icons=true&locale=en&layout=compact" alt="brunociccarino" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunociccarino&show_icons=true&locale=en" alt="brunociccarino" /></p>
 
