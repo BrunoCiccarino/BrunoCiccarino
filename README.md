@@ -5,11 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunociccarino&label=Profile%20views&color=0e75b6&style=flat" alt="brunociccarino" /> </p>
 
 - 🔭 I’m currently working on [fastvim](https://github.com/fastvim/fastvim)
-
-- 🌱 I’m currently learning **react, astro and tailwind**
-
-- 📝 I regularly write articles on [https://brunociccarino.github.io/](https://brunociccarino.github.io/)
-
+- 🌱 I’m currently learning **react, astro, tailwind and bash**
+- 📝 I regularly write articles on [ciccabruno.dev](https://brunociccarino.github.io/)
 - 📫 How to reach me **brunociccarinoo@gmail.com**
 
 ### 📝 — Latests posts from my blog
