@@ -11,6 +11,7 @@
 
 ### 📝 — Latests posts from my blog
 
+- [Could DeepSeek Be the Democratization of AI?](https://brunociccarino.github.io/posts/deepseek-ai-democratization/)
 - [posh-zero-to-hero](https://brunociccarino.github.io/posts/posh-zero-to-hero/)
 - [choosing-your-shell](https://brunociccarino.github.io/posts/choosing-your-shell/)
 - [why-haskell](https://brunociccarino.github.io/posts/why-haskell/)
